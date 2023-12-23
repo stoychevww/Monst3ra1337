@@ -7,8 +7,7 @@ And this is my website overall:
 https://georgistoychev.free.bg
 
 My payment methods are:
-PayPal
-Revolut
+PayPal and Revolut
 
 Have a nice day!
 
