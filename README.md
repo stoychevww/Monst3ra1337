@@ -1,13 +1,13 @@
 Hi there! My name is Georgi Stoychev, and i'm a 13 years old kid from Stara Zagora, Bulgaria 🇧🇬
 I am a junior programmer and i'm currently learning HTML, CSS and JavaScript. My current goal is to be a front end developer and a game developer (in unity and FiveM server development) In the near future i will learn maybe some backend languages and programming.
 
-If you want to work together contact me through one of the options in my portfolio: https://portfolio.st0ychevww.eu
+If you want to work together contact me through one of the options in my portfolio: https://stoychevww.com
 
 And this is my website overall:
-https://portfolio.st0ychevww.eu
+https://stoychevww.com
 
 My payment methods are:
-PayPal and Revolut
+PayPal
 
 Have a nice day!
 
